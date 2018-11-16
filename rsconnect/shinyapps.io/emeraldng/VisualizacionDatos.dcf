@@ -1,0 +1,12 @@
+name: VisualizacionDatos
+title: VisualizacionDatos
+username:
+account: emeraldng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 574396
+bundleId: 1703290
+url: https://emeraldng.shinyapps.io/VisualizacionDatos/
+when: 1542319248.94627
+asMultiple: FALSE
+asStatic: FALSE
